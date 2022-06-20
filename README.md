@@ -20,6 +20,6 @@ So THAT they can organise their schedule more effectively
 
 ## Links
 
-[github page](https://www.example.com)
+[github page](https://github.com/Yoko-cyer/Module5-challenge-Scheduler)
 
-[Deployed app](https://www.example.com)
+[Deployed app](https://iridescent-hotteok-a2398b.netlify.app/)
